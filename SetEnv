@@ -1,0 +1,4 @@
+alias fetchjson="mv ~/Downloads/lily58_rev1_gum.json gum.json"
+alias json2c="qmk json2c gum.json>keymap.c"
+alias cdqmk="cd ~/qmk_firmware"
+alias bkb="sudo make lily58:GummyGun:dfu"
